@@ -1,4 +1,4 @@
-# OI pessoas
+# Oi pessoas
 ## Bem-vindo ao perfil  :)
 - Cursando Ciência da Computação na UNIMAR
 ## Linguagens de programação
